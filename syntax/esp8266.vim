@@ -1,20 +1,17 @@
-" syntax/esp8255.vim
-" Syntax highlighting for the Espressif ESP8266 Non-OS SDK.
-"
-" Author: Nathan Campos <nathan@innoveworkshop.com>
+" ============================================================================
+" File:        esp8255.vim
+" Description: Syntax highlighting for the Espressif ESP8266 Non-OS SDK.
+" Author:      Nathan Campos <nathan@innoveworkshop.com>
+" License:     MIT
+" ============================================================================
 
-" Set the default behaviour for auto loading for C syntax.
-if !exists('g:esp8266_autoload_c_syntax')
-	let g:esp8266_autoload_c_syntax = 1
+if exists('b:current_syntax')
+	finish
 endif
 
-" Set the default behaviour for auto loading for C++ syntax.
-if !exists('g:esp8266_autoload_cpp_syntax')
-	let g:esp8266_autoload_cpp_syntax = 1
-endif
+highlight link espFunction Function
+highlight link espEnum Constant
+highlight link espStruct Structure
 
-" Set the default behaviour for auto loading tags.
-if !exists('g:esp8266_autoload_tags')
-	let g:esp8266_autoload_tags = ['functions', 'structs', 'enums']
-endif
+let b:current_syntax = 'esp8266'
 
