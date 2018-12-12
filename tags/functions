@@ -1,0 +1,781 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/befcb888/
+AIRKISS_H_	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/airkiss.h	/^#define AIRKISS_H_$/;"	d
+APB_CLK_FREQ	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define  APB_CLK_FREQ /;"	d
+BIT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define BIT(/;"	d
+BIT0	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT0 /;"	d
+BIT1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT1 /;"	d
+BIT10	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT10 /;"	d
+BIT11	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT11 /;"	d
+BIT12	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT12 /;"	d
+BIT13	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT13 /;"	d
+BIT14	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT14 /;"	d
+BIT15	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT15 /;"	d
+BIT16	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT16 /;"	d
+BIT17	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT17 /;"	d
+BIT18	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT18 /;"	d
+BIT19	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT19 /;"	d
+BIT2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT2 /;"	d
+BIT20	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT20 /;"	d
+BIT21	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT21 /;"	d
+BIT22	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT22 /;"	d
+BIT23	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT23 /;"	d
+BIT24	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT24 /;"	d
+BIT25	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT25 /;"	d
+BIT26	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT26 /;"	d
+BIT27	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT27 /;"	d
+BIT28	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT28 /;"	d
+BIT29	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT29 /;"	d
+BIT3	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT3 /;"	d
+BIT30	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT30 /;"	d
+BIT31	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT31 /;"	d
+BIT4	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT4 /;"	d
+BIT5	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT5 /;"	d
+BIT6	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT6 /;"	d
+BIT7	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT7 /;"	d
+BIT8	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT8 /;"	d
+BIT9	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define BIT9 /;"	d
+BOOL	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define BOOL /;"	d
+CLEAR_PERI_REG_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define CLEAR_PERI_REG_MASK(/;"	d
+CUSTOM_AT_H_	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^#define CUSTOM_AT_H_$/;"	d
+DMEM_ATTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define DMEM_ATTR /;"	d
+EDGE_INT_ENABLE_REG	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define EDGE_INT_ENABLE_REG /;"	d
+ESPCONN_ABRT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_ABRT /;"	d
+ESPCONN_ARG	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_ARG /;"	d
+ESPCONN_CLSD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_CLSD /;"	d
+ESPCONN_CONN	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_CONN /;"	d
+ESPCONN_HANDSHAKE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_HANDSHAKE /;"	d
+ESPCONN_IF	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_IF	/;"	d
+ESPCONN_INPROGRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_INPROGRESS /;"	d
+ESPCONN_ISCONN	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_ISCONN /;"	d
+ESPCONN_MAXNUM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_MAXNUM	/;"	d
+ESPCONN_MEM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_MEM /;"	d
+ESPCONN_OK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_OK /;"	d
+ESPCONN_RST	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_RST /;"	d
+ESPCONN_RTE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_RTE /;"	d
+ESPCONN_SSL_INVALID_DATA	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_SSL_INVALID_DATA /;"	d
+ESPCONN_TIMEOUT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define ESPCONN_TIMEOUT /;"	d
+ESP_MESH_GROUP_ID_LEN	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^#define ESP_MESH_GROUP_ID_LEN /;"	d
+ESP_SDK_VERSION	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/esp_sdk_ver.h	/^#define ESP_SDK_VERSION /;"	d
+ESP_U32_DIFF	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define ESP_U32_DIFF(/;"	d
+ETS_CACHED_ADDR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define ETS_CACHED_ADDR(/;"	d
+ETS_FRC1_INTR_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_FRC1_INTR_DISABLE(/;"	d
+ETS_FRC1_INTR_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_FRC1_INTR_ENABLE(/;"	d
+ETS_FRC_TIMER1_INTR_ATTACH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_FRC_TIMER1_INTR_ATTACH(/;"	d
+ETS_FRC_TIMER1_INUM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_FRC_TIMER1_INUM /;"	d
+ETS_FRC_TIMER1_NMI_INTR_ATTACH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_FRC_TIMER1_NMI_INTR_ATTACH(/;"	d
+ETS_GPIO_INTR_ATTACH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_GPIO_INTR_ATTACH(/;"	d
+ETS_GPIO_INTR_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_GPIO_INTR_DISABLE(/;"	d
+ETS_GPIO_INTR_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_GPIO_INTR_ENABLE(/;"	d
+ETS_GPIO_INUM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_GPIO_INUM /;"	d
+ETS_INTR_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_INTR_DISABLE(/;"	d
+ETS_INTR_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_INTR_ENABLE(/;"	d
+ETS_INTR_LOCK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_INTR_LOCK(/;"	d
+ETS_INTR_UNLOCK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_INTR_UNLOCK(/;"	d
+ETS_SDIO_INTR_ATTACH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_SDIO_INTR_ATTACH(/;"	d
+ETS_SDIO_INTR_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_SDIO_INTR_DISABLE(/;"	d
+ETS_SDIO_INTR_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_SDIO_INTR_ENABLE(/;"	d
+ETS_SDIO_INUM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_SDIO_INUM /;"	d
+ETS_SPI_INTR_ATTACH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_SPI_INTR_ATTACH(/;"	d
+ETS_SPI_INTR_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_SPI_INTR_DISABLE(/;"	d
+ETS_SPI_INTR_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_SPI_INTR_ENABLE(/;"	d
+ETS_SPI_INUM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_SPI_INUM	/;"	d
+ETS_UART1_INUM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_UART1_INUM /;"	d
+ETS_UART_INTR_ATTACH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_UART_INTR_ATTACH(/;"	d
+ETS_UART_INTR_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_UART_INTR_DISABLE(/;"	d
+ETS_UART_INTR_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_UART_INTR_ENABLE(/;"	d
+ETS_UART_INUM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define ETS_UART_INUM /;"	d
+ETS_UNCACHED_ADDR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define ETS_UNCACHED_ADDR(/;"	d
+FALSE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define FALSE /;"	d
+FIXED_RATE_MASK_ALL	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define FIXED_RATE_MASK_ALL /;"	d
+FIXED_RATE_MASK_AP	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define FIXED_RATE_MASK_AP /;"	d
+FIXED_RATE_MASK_NONE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define FIXED_RATE_MASK_NONE /;"	d
+FIXED_RATE_MASK_STA	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define FIXED_RATE_MASK_STA /;"	d
+FRC1_COUNT_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FRC1_COUNT_ADDRESS /;"	d
+FRC1_CTRL_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FRC1_CTRL_ADDRESS /;"	d
+FRC1_INT_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FRC1_INT_ADDRESS /;"	d
+FRC1_INT_CLR_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FRC1_INT_CLR_MASK /;"	d
+FRC1_LOAD_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FRC1_LOAD_ADDRESS /;"	d
+FRC2_COUNT_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FRC2_COUNT_ADDRESS /;"	d
+FUNC_GPIO0	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO0 /;"	d
+FUNC_GPIO1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO1 /;"	d
+FUNC_GPIO10	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO10 /;"	d
+FUNC_GPIO12	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO12 /;"	d
+FUNC_GPIO13	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO13 /;"	d
+FUNC_GPIO14	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO14 /;"	d
+FUNC_GPIO15	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO15 /;"	d
+FUNC_GPIO2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO2 /;"	d
+FUNC_GPIO3	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO3 /;"	d
+FUNC_GPIO4	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO4 /;"	d
+FUNC_GPIO5	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO5 /;"	d
+FUNC_GPIO9	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_GPIO9 /;"	d
+FUNC_SDCLK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SDCLK /;"	d
+FUNC_SDCMD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SDCMD /;"	d
+FUNC_SDDATA0	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SDDATA0 /;"	d
+FUNC_SDDATA1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SDDATA1 /;"	d
+FUNC_SDDATA1_U1RXD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SDDATA1_U1RXD /;"	d
+FUNC_SDDATA2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SDDATA2 /;"	d
+FUNC_SDDATA3	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SDDATA3 /;"	d
+FUNC_SPICLK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SPICLK /;"	d
+FUNC_SPICS0	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SPICS0 /;"	d
+FUNC_SPID	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SPID /;"	d
+FUNC_SPIHD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SPIHD /;"	d
+FUNC_SPIQ	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SPIQ /;"	d
+FUNC_SPIWP	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_SPIWP /;"	d
+FUNC_U0RTS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_U0RTS /;"	d
+FUNC_U0TXD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_U0TXD /;"	d
+FUNC_U0TXD_BK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_U0TXD_BK /;"	d
+FUNC_U1RXD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_U1RXD /;"	d
+FUNC_U1TXD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_U1TXD /;"	d
+FUNC_U1TXD_BK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define FUNC_U1TXD_BK /;"	d
+GET_PERI_REG_BITS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GET_PERI_REG_BITS(/;"	d
+GPIO_AS_PIN_SOURCE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_AS_PIN_SOURCE /;"	d
+GPIO_DIS_OUTPUT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^#define GPIO_DIS_OUTPUT(/;"	d
+GPIO_ENABLE_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_ENABLE_ADDRESS /;"	d
+GPIO_ENABLE_W1TC_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_ENABLE_W1TC_ADDRESS /;"	d
+GPIO_ENABLE_W1TS_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_ENABLE_W1TS_ADDRESS /;"	d
+GPIO_ID_IS_PIN_REGISTER	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^#define GPIO_ID_IS_PIN_REGISTER(/;"	d
+GPIO_ID_NONE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_ID_NONE /;"	d
+GPIO_ID_PIN	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_ID_PIN(/;"	d
+GPIO_ID_PIN0	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_ID_PIN0 /;"	d
+GPIO_INPUT_GET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^#define GPIO_INPUT_GET(/;"	d
+GPIO_IN_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_IN_ADDRESS /;"	d
+GPIO_LAST_REGISTER_ID	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_LAST_REGISTER_ID /;"	d
+GPIO_OUTPUT_SET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^#define GPIO_OUTPUT_SET(/;"	d
+GPIO_OUT_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_OUT_ADDRESS /;"	d
+GPIO_OUT_W1TC_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_OUT_W1TC_ADDRESS /;"	d
+GPIO_OUT_W1TC_DATA_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_OUT_W1TC_DATA_MASK /;"	d
+GPIO_OUT_W1TS_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_OUT_W1TS_ADDRESS /;"	d
+GPIO_PAD_DRIVER_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PAD_DRIVER_DISABLE /;"	d
+GPIO_PAD_DRIVER_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PAD_DRIVER_ENABLE /;"	d
+GPIO_PIN0_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN0_ADDRESS /;"	d
+GPIO_PIN_ADDR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^#define GPIO_PIN_ADDR(/;"	d
+GPIO_PIN_CONFIG_GET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_CONFIG_GET(/;"	d
+GPIO_PIN_CONFIG_LSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_CONFIG_LSB /;"	d
+GPIO_PIN_CONFIG_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_CONFIG_MASK /;"	d
+GPIO_PIN_CONFIG_MSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_CONFIG_MSB /;"	d
+GPIO_PIN_CONFIG_SET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_CONFIG_SET(/;"	d
+GPIO_PIN_COUNT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_COUNT /;"	d
+GPIO_PIN_INT_TYPE_GET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_INT_TYPE_GET(/;"	d
+GPIO_PIN_INT_TYPE_LSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_INT_TYPE_LSB /;"	d
+GPIO_PIN_INT_TYPE_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_INT_TYPE_MASK /;"	d
+GPIO_PIN_INT_TYPE_MSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_INT_TYPE_MSB /;"	d
+GPIO_PIN_INT_TYPE_SET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_INT_TYPE_SET(/;"	d
+GPIO_PIN_PAD_DRIVER_GET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_PAD_DRIVER_GET(/;"	d
+GPIO_PIN_PAD_DRIVER_LSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_PAD_DRIVER_LSB /;"	d
+GPIO_PIN_PAD_DRIVER_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_PAD_DRIVER_MASK /;"	d
+GPIO_PIN_PAD_DRIVER_MSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_PAD_DRIVER_MSB /;"	d
+GPIO_PIN_PAD_DRIVER_SET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_PAD_DRIVER_SET(/;"	d
+GPIO_PIN_SOURCE_GET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_SOURCE_GET(/;"	d
+GPIO_PIN_SOURCE_LSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_SOURCE_LSB /;"	d
+GPIO_PIN_SOURCE_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_SOURCE_MASK /;"	d
+GPIO_PIN_SOURCE_MSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_SOURCE_MSB /;"	d
+GPIO_PIN_SOURCE_SET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_SOURCE_SET(/;"	d
+GPIO_PIN_WAKEUP_ENABLE_GET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_WAKEUP_ENABLE_GET(/;"	d
+GPIO_PIN_WAKEUP_ENABLE_LSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_WAKEUP_ENABLE_LSB /;"	d
+GPIO_PIN_WAKEUP_ENABLE_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_WAKEUP_ENABLE_MASK /;"	d
+GPIO_PIN_WAKEUP_ENABLE_MSB	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_WAKEUP_ENABLE_MSB /;"	d
+GPIO_PIN_WAKEUP_ENABLE_SET	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_PIN_WAKEUP_ENABLE_SET(/;"	d
+GPIO_REGID_TO_PINIDX	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^#define GPIO_REGID_TO_PINIDX(/;"	d
+GPIO_REG_READ	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_REG_READ(/;"	d
+GPIO_REG_WRITE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_REG_WRITE(/;"	d
+GPIO_RTC_CALIB_SYNC	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_RTC_CALIB_SYNC /;"	d
+GPIO_RTC_CALIB_VALUE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_RTC_CALIB_VALUE /;"	d
+GPIO_STATUS_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_STATUS_ADDRESS /;"	d
+GPIO_STATUS_INTERRUPT_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_STATUS_INTERRUPT_MASK /;"	d
+GPIO_STATUS_W1TC_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_STATUS_W1TC_ADDRESS /;"	d
+GPIO_STATUS_W1TS_ADDRESS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_STATUS_W1TS_ADDRESS /;"	d
+GPIO_WAKEUP_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_WAKEUP_DISABLE /;"	d
+GPIO_WAKEUP_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define GPIO_WAKEUP_ENABLE /;"	d
+ICACHE_FLASH_ATTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define ICACHE_FLASH_ATTR /;"	d
+ICACHE_FLASH_ATTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define ICACHE_FLASH_ATTR$/;"	d
+ICACHE_RODATA_ATTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define ICACHE_RODATA_ATTR /;"	d
+ICACHE_RODATA_ATTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define ICACHE_RODATA_ATTR$/;"	d
+IP2STR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define IP2STR(/;"	d
+IP4_ADDR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define IP4_ADDR(/;"	d
+IPADDR_ANY	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define IPADDR_ANY /;"	d
+IPADDR_NONE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define IPADDR_NONE /;"	d
+IPSTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define IPSTR /;"	d
+LIMIT_ERASE_SIZE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define LIMIT_ERASE_SIZE	/;"	d
+LIMIT_RATE_MASK_ALL	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define LIMIT_RATE_MASK_ALL /;"	d
+LIMIT_RATE_MASK_AP	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define LIMIT_RATE_MASK_AP /;"	d
+LIMIT_RATE_MASK_NONE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define LIMIT_RATE_MASK_NONE /;"	d
+LIMIT_RATE_MASK_STA	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define LIMIT_RATE_MASK_STA /;"	d
+LOCAL	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define LOCAL /;"	d
+MAC2STR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define MAC2STR(/;"	d
+MACSTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define MACSTR /;"	d
+MEMLEAK_DEBUG_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^#define MEMLEAK_DEBUG_ENABLE	/;"	d
+NOW	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define NOW(/;"	d
+NULL	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define NULL /;"	d
+NULL_MODE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define NULL_MODE /;"	d
+NmiTimSetFunc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^void NmiTimSetFunc(void (*func)(void));$/;"	p	typeref:typename:void
+PAD_XPD_DCDC_CONF	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PAD_XPD_DCDC_CONF /;"	d
+PERIPHS_DPORT_BASEADDR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_DPORT_BASEADDR /;"	d
+PERIPHS_GPIO_BASEADDR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_GPIO_BASEADDR /;"	d
+PERIPHS_IO_MUX	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX	/;"	d
+PERIPHS_IO_MUX_CONF_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_CONF_U /;"	d
+PERIPHS_IO_MUX_FUNC	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_FUNC /;"	d
+PERIPHS_IO_MUX_FUNC_S	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_FUNC_S /;"	d
+PERIPHS_IO_MUX_GPIO0_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_GPIO0_U /;"	d
+PERIPHS_IO_MUX_GPIO2_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_GPIO2_U /;"	d
+PERIPHS_IO_MUX_GPIO4_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_GPIO4_U /;"	d
+PERIPHS_IO_MUX_GPIO5_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_GPIO5_U /;"	d
+PERIPHS_IO_MUX_MTCK_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_MTCK_U /;"	d
+PERIPHS_IO_MUX_MTDI_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_MTDI_U /;"	d
+PERIPHS_IO_MUX_MTDO_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_MTDO_U /;"	d
+PERIPHS_IO_MUX_MTMS_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_MTMS_U /;"	d
+PERIPHS_IO_MUX_OE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_OE /;"	d
+PERIPHS_IO_MUX_PULLUP	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_PULLUP /;"	d
+PERIPHS_IO_MUX_PULLUP2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_PULLUP2 /;"	d
+PERIPHS_IO_MUX_SD_CLK_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SD_CLK_U /;"	d
+PERIPHS_IO_MUX_SD_CMD_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SD_CMD_U /;"	d
+PERIPHS_IO_MUX_SD_DATA0_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SD_DATA0_U /;"	d
+PERIPHS_IO_MUX_SD_DATA1_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SD_DATA1_U /;"	d
+PERIPHS_IO_MUX_SD_DATA2_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SD_DATA2_U /;"	d
+PERIPHS_IO_MUX_SD_DATA3_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SD_DATA3_U /;"	d
+PERIPHS_IO_MUX_SLEEP_OE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SLEEP_OE /;"	d
+PERIPHS_IO_MUX_SLEEP_PULLUP	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SLEEP_PULLUP /;"	d
+PERIPHS_IO_MUX_SLEEP_PULLUP2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_SLEEP_PULLUP2 /;"	d
+PERIPHS_IO_MUX_U0RXD_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_U0RXD_U /;"	d
+PERIPHS_IO_MUX_U0TXD_U	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_IO_MUX_U0TXD_U /;"	d
+PERIPHS_RTC_BASEADDR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_RTC_BASEADDR /;"	d
+PERIPHS_TIMER_BASEDDR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PERIPHS_TIMER_BASEDDR /;"	d
+PIN_FUNC_SELECT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PIN_FUNC_SELECT(/;"	d
+PIN_PULLUP_DIS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PIN_PULLUP_DIS(/;"	d
+PIN_PULLUP_EN	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define PIN_PULLUP_EN(/;"	d
+PWM_CHANNEL_NUM_MAX	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^#define PWM_CHANNEL_NUM_MAX /;"	d
+QMD_SAVELINK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	QMD_SAVELINK(/;"	d
+RC_LIMIT_11B	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define RC_LIMIT_11B /;"	d
+RC_LIMIT_11G	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define RC_LIMIT_11G /;"	d
+RC_LIMIT_11N	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define RC_LIMIT_11N /;"	d
+RC_LIMIT_NUM	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define RC_LIMIT_NUM /;"	d
+RC_LIMIT_P2P_11G	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define RC_LIMIT_P2P_11G /;"	d
+RC_LIMIT_P2P_11N	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define RC_LIMIT_P2P_11N /;"	d
+READ_PERI_REG	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define READ_PERI_REG(/;"	d
+REG_CLR_BIT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define REG_CLR_BIT(/;"	d
+REG_RTC_BASE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define REG_RTC_BASE /;"	d
+REG_SET_BIT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define REG_SET_BIT(/;"	d
+RTC_CALIB_RDY_S	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_CALIB_RDY_S /;"	d
+RTC_CALIB_START	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_CALIB_START /;"	d
+RTC_CALIB_VALUE_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_CALIB_VALUE_MASK /;"	d
+RTC_CLR_REG_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_CLR_REG_MASK(/;"	d
+RTC_GPIO_CONF	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_GPIO_CONF /;"	d
+RTC_GPIO_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_GPIO_ENABLE /;"	d
+RTC_GPIO_IN_DATA	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_GPIO_IN_DATA /;"	d
+RTC_GPIO_OUT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_GPIO_OUT /;"	d
+RTC_PERIOD_NUM_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_PERIOD_NUM_MASK /;"	d
+RTC_REG_READ	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_REG_READ(/;"	d
+RTC_REG_WRITE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_REG_WRITE(/;"	d
+RTC_STORE0	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_STORE0 /;"	d
+RTC_STORE1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_STORE1 /;"	d
+RTC_STORE2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_STORE2 /;"	d
+RTC_STORE3	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define RTC_STORE3 /;"	d
+SET_PERI_REG_BITS	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define SET_PERI_REG_BITS(/;"	d
+SET_PERI_REG_MASK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define SET_PERI_REG_MASK(/;"	d
+SHMEM_ATTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define SHMEM_ATTR$/;"	d
+SIGMA_AS_PIN_SOURCE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define SIGMA_AS_PIN_SOURCE /;"	d
+SLIST_EMPTY	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_EMPTY(/;"	d
+SLIST_ENTRY	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_ENTRY(/;"	d
+SLIST_FIRST	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_FIRST(/;"	d
+SLIST_FOREACH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_FOREACH(/;"	d
+SLIST_FOREACH_PREVPTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_FOREACH_PREVPTR(/;"	d
+SLIST_FOREACH_SAFE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_FOREACH_SAFE(/;"	d
+SLIST_HEAD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_HEAD(/;"	d
+SLIST_HEAD_INITIALIZER	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_HEAD_INITIALIZER(/;"	d
+SLIST_INIT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_INIT(/;"	d
+SLIST_INSERT_AFTER	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_INSERT_AFTER(/;"	d
+SLIST_INSERT_HEAD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_INSERT_HEAD(/;"	d
+SLIST_NEXT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_NEXT(/;"	d
+SLIST_REMOVE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_REMOVE(/;"	d
+SLIST_REMOVE_AFTER	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define SLIST_REMOVE_AFTER(/;"	d
+SLIST_REMOVE_HEAD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	SLIST_REMOVE_HEAD(/;"	d
+SOFTAP_IF	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define SOFTAP_IF /;"	d
+SOFTAP_MODE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define SOFTAP_MODE /;"	d
+SPI0_CLK_EQU_SYS_CLK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define SPI0_CLK_EQU_SYS_CLK /;"	d
+SPI1_CLK_EQU_SYS_CLK	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define SPI1_CLK_EQU_SYS_CLK /;"	d
+SPI_FLASH_H	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^#define SPI_FLASH_H$/;"	d
+SPI_FLASH_SEC_SIZE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^#define SPI_FLASH_SEC_SIZE /;"	d
+SPI_FLASH_SEC_SIZE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define SPI_FLASH_SEC_SIZE /;"	d
+STAILQ_CONCAT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_CONCAT(/;"	d
+STAILQ_EMPTY	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_EMPTY(/;"	d
+STAILQ_ENTRY	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_ENTRY(/;"	d
+STAILQ_FIRST	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_FIRST(/;"	d
+STAILQ_FOREACH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_FOREACH(/;"	d
+STAILQ_FOREACH_SAFE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_FOREACH_SAFE(/;"	d
+STAILQ_HEAD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_HEAD(/;"	d
+STAILQ_HEAD_INITIALIZER	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_HEAD_INITIALIZER(/;"	d
+STAILQ_INIT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_INIT(/;"	d
+STAILQ_INSERT_AFTER	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_INSERT_AFTER(/;"	d
+STAILQ_INSERT_CHAIN_HEAD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define STAILQ_INSERT_CHAIN_HEAD(/;"	d
+STAILQ_INSERT_HEAD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_INSERT_HEAD(/;"	d
+STAILQ_INSERT_TAIL	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_INSERT_TAIL(/;"	d
+STAILQ_LAST	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_LAST(/;"	d
+STAILQ_NEXT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_NEXT(/;"	d
+STAILQ_REMOVE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_REMOVE(/;"	d
+STAILQ_REMOVE_AFTER	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define STAILQ_REMOVE_AFTER(/;"	d
+STAILQ_REMOVE_HEAD	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	STAILQ_REMOVE_HEAD(/;"	d
+STAILQ_SWAP	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define STAILQ_SWAP(/;"	d
+STATIONAP_MODE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define STATIONAP_MODE /;"	d
+STATION_IF	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define STATION_IF /;"	d
+STATION_MODE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define STATION_MODE /;"	d
+STORE_ATTR	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define STORE_ATTR /;"	d
+SYS_BOOT_ENHANCE_MODE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define SYS_BOOT_ENHANCE_MODE /;"	d
+SYS_BOOT_NORMAL_BIN	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define SYS_BOOT_NORMAL_BIN /;"	d
+SYS_BOOT_NORMAL_MODE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define SYS_BOOT_NORMAL_MODE /;"	d
+SYS_BOOT_TEST_BIN	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define SYS_BOOT_TEST_BIN /;"	d
+SYS_CPU_160MHZ	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define SYS_CPU_160MHZ /;"	d
+SYS_CPU_80MHZ	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define SYS_CPU_80MHZ /;"	d
+TIMER_CLK_FREQ	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define  TIMER_CLK_FREQ /;"	d
+TM1_EDGE_INT_DISABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define TM1_EDGE_INT_DISABLE(/;"	d
+TM1_EDGE_INT_ENABLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define TM1_EDGE_INT_ENABLE(/;"	d
+TRASHIT	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	TRASHIT(/;"	d
+TRUE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define TRUE /;"	d
+UART_CLK_FREQ	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define  UART_CLK_FREQ /;"	d
+UPGRADE_FLAG_FINISH	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define UPGRADE_FLAG_FINISH /;"	d
+UPGRADE_FLAG_IDLE	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define UPGRADE_FLAG_IDLE /;"	d
+UPGRADE_FLAG_START	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define UPGRADE_FLAG_START /;"	d
+UPGRADE_FW_BIN1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define UPGRADE_FW_BIN1 /;"	d
+UPGRADE_FW_BIN1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define UPGRADE_FW_BIN1 /;"	d
+UPGRADE_FW_BIN2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define UPGRADE_FW_BIN2 /;"	d
+UPGRADE_FW_BIN2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define UPGRADE_FW_BIN2 /;"	d
+USER_BIN1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define USER_BIN1 /;"	d
+USER_BIN2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define USER_BIN2 /;"	d
+WRITE_PERI_REG	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define WRITE_PERI_REG(/;"	d
+_C_TYPES_H_	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define _C_TYPES_H_$/;"	d
+_EAGLE_SOC_H_	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/eagle_soc.h	/^#define _EAGLE_SOC_H_$/;"	d
+_ETS_SYS_H	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^#define _ETS_SYS_H$/;"	d
+_GPIO_H_	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^#define _GPIO_H_$/;"	d
+_OSAPI_H_	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define _OSAPI_H_$/;"	d
+_OS_TYPES_H_	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/os_type.h	/^#define _OS_TYPES_H_$/;"	d
+_SYS_QUEUE_H_	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/queue.h	/^#define	_SYS_QUEUE_H_$/;"	d
+__ESPCONN_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^#define __ESPCONN_H__$/;"	d
+__ESPNOW_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^#define __ESPNOW_H__$/;"	d
+__IP_ADDR_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define __IP_ADDR_H__$/;"	d
+__LWIP_API_MESH_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^#define __LWIP_API_MESH_H__$/;"	d
+__MEM_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^#define __MEM_H__$/;"	d
+__PING_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ping.h	/^#define __PING_H__$/;"	d
+__PWM_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^#define __PWM_H__$/;"	d
+__SIMPLE_PAIR_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^#define __SIMPLE_PAIR_H__$/;"	d
+__SMARTCONFIG_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/smartconfig.h	/^#define __SMARTCONFIG_H__$/;"	d
+__SNTP_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^#define __SNTP_H__$/;"	d
+__UPGRADE_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^#define __UPGRADE_H__$/;"	d
+__USER_INTERFACE_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^#define __USER_INTERFACE_H__$/;"	d
+__WPA2_ENTERPRISE_H__	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^#define __WPA2_ENTERPRISE_H__$/;"	d
+__le16	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define __le16 /;"	d
+__packed	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/c_types.h	/^#define __packed /;"	d
+airkiss_lan_pack	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/airkiss.h	/^int airkiss_lan_pack(airkiss_lan_cmdid_t ak_lan_cmdid, void* appid, void* deviceid, void* _datai/;"	p	typeref:typename:int
+airkiss_lan_recv	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/airkiss.h	/^int airkiss_lan_recv(const void* body, unsigned short length, const airkiss_config_t* config);$/;"	p	typeref:typename:int
+airkiss_version	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/airkiss.h	/^const char* airkiss_version(void);$/;"	p	typeref:typename:const char *
+at_cmd_array_regist	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_cmd_array_regist(at_funcationType *custom_at_cmd_array,uint32 cmd_num);$/;"	p	typeref:typename:void
+at_data_str_copy	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^int32 at_data_str_copy(char *p_dest, char **p_src, int32 max_len);$/;"	p	typeref:typename:int32
+at_enter_special_state	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_enter_special_state(void);$/;"	p	typeref:typename:void
+at_fake_uart_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^bool at_fake_uart_enable(bool enable,at_fake_uart_tx_func_type at_fake_uart_tx_func);$/;"	p	typeref:typename:bool
+at_fake_uart_rx	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^uint32 at_fake_uart_rx(uint8* data,uint32 length);$/;"	p	typeref:typename:uint32
+at_get_next_int_dec	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^bool at_get_next_int_dec(char **p_src,int*result,int* err);$/;"	p	typeref:typename:bool
+at_get_version	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^uint32 at_get_version(void);$/;"	p	typeref:typename:uint32
+at_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_init(void);$/;"	p	typeref:typename:void
+at_leave_special_state	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_leave_special_state(void);$/;"	p	typeref:typename:void
+at_port_print	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_port_print(const char *str);$/;"	p	typeref:typename:void
+at_register_response_func	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_register_response_func(at_custom_response_func_type response_func);$/;"	p	typeref:typename:void
+at_register_uart_rx_intr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_register_uart_rx_intr(at_custom_uart_rx_intr rx_func);$/;"	p	typeref:typename:void
+at_response	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_response(const char *str);$/;"	p	typeref:typename:void
+at_response_error	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_response_error(void);$/;"	p	typeref:typename:void
+at_response_ok	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_response_ok(void);$/;"	p	typeref:typename:void
+at_set_custom_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^void at_set_custom_info(char* info);$/;"	p	typeref:typename:void
+at_set_escape_character	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/at_custom.h	/^bool at_set_escape_character(uint8 ch);$/;"	p	typeref:typename:bool
+esp_now_add_peer	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_add_peer(u8 *mac_addr, u8 role, u8 channel, u8 *key, u8 key_len);$/;"	p	typeref:typename:int
+esp_now_deinit	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_deinit(void);$/;"	p	typeref:typename:int
+esp_now_del_peer	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_del_peer(u8 *mac_addr);$/;"	p	typeref:typename:int
+esp_now_fetch_peer	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^u8 *esp_now_fetch_peer(bool restart);$/;"	p	typeref:typename:u8 *
+esp_now_get_cnt_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_get_cnt_info(u8 *all_cnt, u8 *encrypt_cnt);$/;"	p	typeref:typename:int
+esp_now_get_peer_channel	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_get_peer_channel(u8 *mac_addr);$/;"	p	typeref:typename:int
+esp_now_get_peer_key	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_get_peer_key(u8 *mac_addr, u8 *key, u8 *key_len);$/;"	p	typeref:typename:int
+esp_now_get_peer_role	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_get_peer_role(u8 *mac_addr);$/;"	p	typeref:typename:int
+esp_now_get_self_role	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_get_self_role(void);$/;"	p	typeref:typename:int
+esp_now_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_init(void);$/;"	p	typeref:typename:int
+esp_now_is_peer_exist	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_is_peer_exist(u8 *mac_addr);$/;"	p	typeref:typename:int
+esp_now_register_recv_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_register_recv_cb(esp_now_recv_cb_t cb);$/;"	p	typeref:typename:int
+esp_now_register_send_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_register_send_cb(esp_now_send_cb_t cb);$/;"	p	typeref:typename:int
+esp_now_send	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_send(u8 *da, u8 *data, int len);$/;"	p	typeref:typename:int
+esp_now_set_kok	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_set_kok(u8 *key, u8 len);$/;"	p	typeref:typename:int
+esp_now_set_peer_channel	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_set_peer_channel(u8 *mac_addr, u8 channel);$/;"	p	typeref:typename:int
+esp_now_set_peer_key	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_set_peer_key(u8 *mac_addr, u8 *key, u8 key_len);$/;"	p	typeref:typename:int
+esp_now_set_peer_role	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_set_peer_role(u8 *mac_addr, u8 role);$/;"	p	typeref:typename:int
+esp_now_set_self_role	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_set_self_role(u8 role);$/;"	p	typeref:typename:int
+esp_now_unregister_recv_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_unregister_recv_cb(void);$/;"	p	typeref:typename:int
+esp_now_unregister_send_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espnow.h	/^int esp_now_unregister_send_cb(void);$/;"	p	typeref:typename:int
+espconn_abort	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_abort(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_accept	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_accept(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_clear_opt	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_clear_opt(struct espconn *espconn, uint8 opt);$/;"	p	typeref:typename:sint8
+espconn_connect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_connect(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_create	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_create(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_delete	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_delete(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_disconnect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_disconnect(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_dns_getserver	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^ip_addr_t espconn_dns_getserver(uint8 numdns);$/;"	p	typeref:typename:ip_addr_t
+espconn_dns_setserver	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_dns_setserver(uint8 numdns, ip_addr_t *dnsserver);$/;"	p	typeref:typename:void
+espconn_get_connection_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_get_connection_info(struct espconn *pespconn, remot_info **pcon_info, uint8 typefl/;"	p	typeref:typename:sint8
+espconn_get_keepalive	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_get_keepalive(struct espconn *espconn, uint8 level, void *optarg);$/;"	p	typeref:typename:sint8
+espconn_get_packet_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_get_packet_info(struct espconn *espconn, struct espconn_packet* infoarg);$/;"	p	typeref:typename:sint8
+espconn_gethostbyname	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^err_t espconn_gethostbyname(struct espconn *pespconn, const char *hostname, ip_addr_t *addr, dns/;"	p	typeref:typename:err_t
+espconn_igmp_join	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_igmp_join(ip_addr_t *host_ip, ip_addr_t *multicast_ip);$/;"	p	typeref:typename:sint8
+espconn_igmp_leave	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_igmp_leave(ip_addr_t *host_ip, ip_addr_t *multicast_ip);$/;"	p	typeref:typename:sint8
+espconn_mdns_close	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_mdns_close(void);$/;"	p	typeref:typename:void
+espconn_mdns_disable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_mdns_disable(void);$/;"	p	typeref:typename:void
+espconn_mdns_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_mdns_enable(void);$/;"	p	typeref:typename:void
+espconn_mdns_get_hostname	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^char* espconn_mdns_get_hostname(void);$/;"	p	typeref:typename:char *
+espconn_mdns_get_servername	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^char* espconn_mdns_get_servername(void);$/;"	p	typeref:typename:char *
+espconn_mdns_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_mdns_init(struct mdns_info *info);$/;"	p	typeref:typename:void
+espconn_mdns_server_register	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_mdns_server_register(void);$/;"	p	typeref:typename:void
+espconn_mdns_server_unregister	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_mdns_server_unregister(void);$/;"	p	typeref:typename:void
+espconn_mdns_set_hostname	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_mdns_set_hostname(char *name);$/;"	p	typeref:typename:void
+espconn_mdns_set_servername	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^void espconn_mdns_set_servername(const char *name);$/;"	p	typeref:typename:void
+espconn_mesh_connect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^int8_t espconn_mesh_connect(struct espconn *usr_esp);$/;"	p	typeref:typename:int8_t
+espconn_mesh_disable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^void espconn_mesh_disable(espconn_mesh_callback disable_cb);$/;"	p	typeref:typename:void
+espconn_mesh_disconnect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^int8_t espconn_mesh_disconnect(struct espconn *usr_esp);$/;"	p	typeref:typename:int8_t
+espconn_mesh_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^void espconn_mesh_enable(espconn_mesh_callback enable_cb, enum mesh_type type);$/;"	p	typeref:typename:void
+espconn_mesh_encrypt_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_encrypt_init(AUTH_MODE mode, uint8_t *passwd, uint8_t passwd_len);$/;"	p	typeref:typename:bool
+espconn_mesh_get_dev_type	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^uint8_t espconn_mesh_get_dev_type();$/;"	p	typeref:typename:uint8_t
+espconn_mesh_get_max_hops	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^uint8_t espconn_mesh_get_max_hops();$/;"	p	typeref:typename:uint8_t
+espconn_mesh_get_node_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_get_node_info(enum mesh_node_type type,$/;"	p	typeref:typename:bool
+espconn_mesh_get_router	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_get_router(struct station_config *router);$/;"	p	typeref:typename:bool
+espconn_mesh_get_status	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^int8_t espconn_mesh_get_status();$/;"	p	typeref:typename:int8_t
+espconn_mesh_group_id_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_group_id_init(uint8_t *grp_id, uint16_t gid_len);$/;"	p	typeref:typename:bool
+espconn_mesh_local_addr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_local_addr(struct ip_addr *ip);$/;"	p	typeref:typename:bool
+espconn_mesh_print_ver	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^void espconn_mesh_print_ver();$/;"	p	typeref:typename:void
+espconn_mesh_scan	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^void espconn_mesh_scan(struct mesh_scan_para_type *para);$/;"	p	typeref:typename:void
+espconn_mesh_sent	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^int8_t espconn_mesh_sent(struct espconn *usr_esp, uint8 *pdata, uint16 len);$/;"	p	typeref:typename:int8_t
+espconn_mesh_server_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_server_init(struct ip_addr *ip, uint16_t port);$/;"	p	typeref:typename:bool
+espconn_mesh_set_dev_type	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_set_dev_type(uint8_t dev_type);$/;"	p	typeref:typename:bool
+espconn_mesh_set_max_hops	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_set_max_hops(uint8_t max_hops);$/;"	p	typeref:typename:bool
+espconn_mesh_set_router	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_set_router(struct station_config *router);$/;"	p	typeref:typename:bool
+espconn_mesh_set_ssid_prefix	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mesh.h	/^bool espconn_mesh_set_ssid_prefix(uint8_t *prefix, uint8_t prefix_len);$/;"	p	typeref:typename:bool
+espconn_port	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^uint32 espconn_port(void);$/;"	p	typeref:typename:uint32
+espconn_recv_hold	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_recv_hold(struct espconn *pespconn);$/;"	p	typeref:typename:sint8
+espconn_recv_unhold	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_recv_unhold(struct espconn *pespconn);$/;"	p	typeref:typename:sint8
+espconn_regist_connectcb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_regist_connectcb(struct espconn *espconn, espconn_connect_callback connect_cb);$/;"	p	typeref:typename:sint8
+espconn_regist_disconcb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_regist_disconcb(struct espconn *espconn, espconn_connect_callback discon_cb);$/;"	p	typeref:typename:sint8
+espconn_regist_reconcb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_regist_reconcb(struct espconn *espconn, espconn_reconnect_callback recon_cb);$/;"	p	typeref:typename:sint8
+espconn_regist_recvcb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_regist_recvcb(struct espconn *espconn, espconn_recv_callback recv_cb);$/;"	p	typeref:typename:sint8
+espconn_regist_sentcb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_regist_sentcb(struct espconn *espconn, espconn_sent_callback sent_cb);$/;"	p	typeref:typename:sint8
+espconn_regist_time	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_regist_time(struct espconn *espconn, uint32 interval, uint8 type_flag);$/;"	p	typeref:typename:sint8
+espconn_regist_write_finish	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_regist_write_finish(struct espconn *espconn, espconn_connect_callback write_finish/;"	p	typeref:typename:sint8
+espconn_secure_accept	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_secure_accept(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_secure_ca_disable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^bool espconn_secure_ca_disable(uint8 level);$/;"	p	typeref:typename:bool
+espconn_secure_ca_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^bool espconn_secure_ca_enable(uint8 level, uint32 flash_sector );$/;"	p	typeref:typename:bool
+espconn_secure_cert_req_disable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^bool espconn_secure_cert_req_disable(uint8 level);$/;"	p	typeref:typename:bool
+espconn_secure_cert_req_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^bool espconn_secure_cert_req_enable(uint8 level, uint32 flash_sector );$/;"	p	typeref:typename:bool
+espconn_secure_connect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_secure_connect(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_secure_delete	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_secure_delete(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_secure_disconnect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_secure_disconnect(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_secure_get_size	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint16 espconn_secure_get_size(uint8 level);$/;"	p	typeref:typename:sint16
+espconn_secure_send	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_secure_send(struct espconn *espconn, uint8 *psent, uint16 length);$/;"	p	typeref:typename:sint8
+espconn_secure_sent	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_secure_sent(struct espconn *espconn, uint8 *psent, uint16 length);$/;"	p	typeref:typename:sint8
+espconn_secure_set_default_certificate	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^bool espconn_secure_set_default_certificate(const uint8* certificate, uint16 length);$/;"	p	typeref:typename:bool
+espconn_secure_set_default_private_key	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^bool espconn_secure_set_default_private_key(const uint8* private_key, uint16 length);$/;"	p	typeref:typename:bool
+espconn_secure_set_size	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^bool espconn_secure_set_size(uint8 level, uint16 size);$/;"	p	typeref:typename:bool
+espconn_send	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_send(struct espconn *espconn, uint8 *psent, uint16 length);$/;"	p	typeref:typename:sint8
+espconn_sendto	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint16 espconn_sendto(struct espconn *espconn, uint8 *psent, uint16 length);$/;"	p	typeref:typename:sint16
+espconn_sent	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_sent(struct espconn *espconn, uint8 *psent, uint16 length);$/;"	p	typeref:typename:sint8
+espconn_set_keepalive	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_set_keepalive(struct espconn *espconn, uint8 level, void* optarg);$/;"	p	typeref:typename:sint8
+espconn_set_opt	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_set_opt(struct espconn *espconn, uint8 opt);$/;"	p	typeref:typename:sint8
+espconn_tcp_get_max_con	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^uint8 espconn_tcp_get_max_con(void);$/;"	p	typeref:typename:uint8
+espconn_tcp_get_max_con_allow	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_tcp_get_max_con_allow(struct espconn *espconn);$/;"	p	typeref:typename:sint8
+espconn_tcp_set_max_con	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_tcp_set_max_con(uint8 num);$/;"	p	typeref:typename:sint8
+espconn_tcp_set_max_con_allow	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/espconn.h	/^sint8 espconn_tcp_set_max_con_allow(struct espconn *espconn, uint8 num);$/;"	p	typeref:typename:sint8
+esptouch_set_timeout	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/smartconfig.h	/^bool esptouch_set_timeout(uint8 time_s); \/\/15s~255s, offset:45s$/;"	p	typeref:typename:bool
+ets_bzero	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void ets_bzero(void *s, size_t n);$/;"	p	typeref:typename:void
+ets_delay_us	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void ets_delay_us(uint16_t us);$/;"	p	typeref:typename:void
+ets_install_putc1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void ets_install_putc1(void (*p)(char c));$/;"	p	typeref:typename:void
+ets_intr_lock	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^void ets_intr_lock(void);$/;"	p	typeref:typename:void
+ets_intr_unlock	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^void ets_intr_unlock(void);$/;"	p	typeref:typename:void
+ets_isr_attach	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ets_sys.h	/^void ets_isr_attach(int i, ets_isr_t func, void *arg);$/;"	p	typeref:typename:void
+ets_memcmp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^int ets_memcmp(const void *str1, const void *str2, unsigned int nbyte);$/;"	p	typeref:typename:int
+ets_memcpy	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void *ets_memcpy(void *dest, const void *src, unsigned int nbyte);$/;"	p	typeref:typename:void *
+ets_memmove	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void *ets_memmove(void *dest, const void *src, unsigned int nbyte);$/;"	p	typeref:typename:void *
+ets_memset	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void *ets_memset(void *dest, int val, unsigned int nbyte);$/;"	p	typeref:typename:void *
+ets_sprintf	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^int ets_sprintf(char *str, const char *format, ...)  __attribute__ ((format (printf, 2, 3)));$/;"	p	typeref:typename:int
+ets_strcmp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^int ets_strcmp(const char *s1, const char *s2);$/;"	p	typeref:typename:int
+ets_strcpy	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^char *ets_strcpy(char *s1, const char *s2);$/;"	p	typeref:typename:char *
+ets_strlen	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^int ets_strlen(const char *s);$/;"	p	typeref:typename:int
+ets_strncmp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^int ets_strncmp(const char *s1, const char *s2, unsigned int n);$/;"	p	typeref:typename:int
+ets_strncpy	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^char *ets_strncpy(char *s1, const char *s2, unsigned int n);$/;"	p	typeref:typename:char *
+ets_strstr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^char *ets_strstr(const char *s1, const char *s2);$/;"	p	typeref:typename:char *
+ets_timer_arm_new	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void ets_timer_arm_new(os_timer_t *ptimer, uint32_t time, bool repeat_flag, bool ms_flag);$/;"	p	typeref:typename:void
+ets_timer_disarm	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void ets_timer_disarm(os_timer_t *ptimer);$/;"	p	typeref:typename:void
+ets_timer_setfn	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^void ets_timer_setfn(os_timer_t *ptimer, os_timer_func_t *pfunction, void *parg);$/;"	p	typeref:typename:void
+get_pwm_version	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^uint32 get_pwm_version(void);$/;"	p	typeref:typename:uint32
+gpio_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^void gpio_init(void);$/;"	p	typeref:typename:void
+gpio_input_get	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^uint32 gpio_input_get(void);$/;"	p	typeref:typename:uint32
+gpio_intr_ack	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^void gpio_intr_ack(uint32 ack_mask);$/;"	p	typeref:typename:void
+gpio_intr_handler_register	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^void gpio_intr_handler_register(gpio_intr_handler_fn_t fn, void *arg);$/;"	p	typeref:typename:void
+gpio_intr_pending	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^uint32 gpio_intr_pending(void);$/;"	p	typeref:typename:uint32
+gpio_output_set	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^void gpio_output_set(uint32 set_mask,$/;"	p	typeref:typename:void
+gpio_pin_intr_state_set	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^void gpio_pin_intr_state_set(uint32 i, GPIO_INT_TYPE intr_state);$/;"	p	typeref:typename:void
+gpio_pin_wakeup_disable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^void gpio_pin_wakeup_disable();$/;"	p	typeref:typename:void
+gpio_pin_wakeup_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^void gpio_pin_wakeup_enable(uint32 i, GPIO_INT_TYPE intr_state);$/;"	p	typeref:typename:void
+gpio_register_get	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^uint32 gpio_register_get(uint32 reg_id);$/;"	p	typeref:typename:uint32
+gpio_register_set	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/gpio.h	/^void gpio_register_set(uint32 reg_id, uint32 value);$/;"	p	typeref:typename:void
+ip4_addr1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip4_addr1(/;"	d
+ip4_addr1_16	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip4_addr1_16(/;"	d
+ip4_addr2	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip4_addr2(/;"	d
+ip4_addr2_16	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip4_addr2_16(/;"	d
+ip4_addr3	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip4_addr3(/;"	d
+ip4_addr3_16	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip4_addr3_16(/;"	d
+ip4_addr4	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip4_addr4(/;"	d
+ip4_addr4_16	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip4_addr4_16(/;"	d
+ip_addr_netcmp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^#define ip_addr_netcmp(/;"	d
+ipaddr_addr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ip_addr.h	/^uint32 ipaddr_addr(const char *cp);$/;"	p	typeref:typename:uint32
+os_bzero	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_bzero /;"	d
+os_calloc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^#define os_calloc(/;"	d
+os_delay_us	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_delay_us /;"	d
+os_event_t	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/os_type.h	/^#define os_event_t /;"	d
+os_free	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^#define os_free(/;"	d
+os_get_random	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^int os_get_random(unsigned char *buf, size_t len);$/;"	p	typeref:typename:int
+os_install_putc1	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_install_putc1 /;"	d
+os_malloc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^#define os_malloc(/;"	d
+os_memcmp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_memcmp /;"	d
+os_memcpy	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_memcpy /;"	d
+os_memmove	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_memmove /;"	d
+os_memset	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_memset /;"	d
+os_param_t	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/os_type.h	/^#define os_param_t /;"	d
+os_printf	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_printf	/;"	d
+os_printf	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_printf(/;"	d
+os_printf_plus	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^int os_printf_plus(const char *format, ...)  __attribute__ ((format (printf, 1, 2)));$/;"	p	typeref:typename:int
+os_random	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^unsigned long os_random(void);$/;"	p	typeref:typename:unsigned long
+os_realloc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^#define os_realloc(/;"	d
+os_signal_t	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/os_type.h	/^#define os_signal_t /;"	d
+os_sprintf	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_sprintf /;"	d
+os_strcat	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_strcat /;"	d
+os_strchr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_strchr /;"	d
+os_strcmp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_strcmp /;"	d
+os_strcpy	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_strcpy /;"	d
+os_strlen	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_strlen /;"	d
+os_strncmp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_strncmp /;"	d
+os_strncpy	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_strncpy /;"	d
+os_strstr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_strstr /;"	d
+os_task_t	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/os_type.h	/^#define os_task_t /;"	d
+os_timer_arm	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_timer_arm(/;"	d
+os_timer_arm_us	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_timer_arm_us(/;"	d
+os_timer_disarm	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_timer_disarm /;"	d
+os_timer_func_t	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/os_type.h	/^#define os_timer_func_t /;"	d
+os_timer_setfn	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/osapi.h	/^#define os_timer_setfn /;"	d
+os_timer_t	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/os_type.h	/^#define os_timer_t /;"	d
+os_zalloc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^#define os_zalloc(/;"	d
+ping_regist_recv	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ping.h	/^bool ping_regist_recv(struct ping_option *ping_opt, ping_recv_function ping_recv);$/;"	p	typeref:typename:bool
+ping_regist_sent	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ping.h	/^bool ping_regist_sent(struct ping_option *ping_opt, ping_sent_function ping_sent);$/;"	p	typeref:typename:bool
+ping_start	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/ping.h	/^bool ping_start(struct ping_option *ping_opt);$/;"	p	typeref:typename:bool
+pvPortMalloc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^void *pvPortMalloc (size_t sz, const char *, unsigned);$/;"	p	typeref:typename:void *
+pvPortRealloc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^void *pvPortRealloc (void *p, size_t n, const char *, unsigned);$/;"	p	typeref:typename:void *
+pvPortZalloc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^void *pvPortZalloc (size_t sz, const char *, unsigned);$/;"	p	typeref:typename:void *
+pwm_get_duty	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^uint32 pwm_get_duty(uint8 channel);$/;"	p	typeref:typename:uint32
+pwm_get_period	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^uint32 pwm_get_period(void);$/;"	p	typeref:typename:uint32
+pwm_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^void pwm_init(uint32 period, uint32 *duty,uint32 pwm_channel_num,uint32 (*pin_info_list)[3]);$/;"	p	typeref:typename:void
+pwm_set_duty	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^void pwm_set_duty(uint32 duty, uint8 channel);$/;"	p	typeref:typename:void
+pwm_set_period	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^void pwm_set_period(uint32 period);$/;"	p	typeref:typename:void
+pwm_start	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^void pwm_start(void);$/;"	p	typeref:typename:void
+register_simple_pair_status_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int register_simple_pair_status_cb(simple_pair_status_cb_t cb);$/;"	p	typeref:typename:int
+set_pwm_debug_en	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/pwm.h	/^void set_pwm_debug_en(uint8 print_en);$/;"	p	typeref:typename:void
+simple_pair_ap_enter_announce_mode	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_ap_enter_announce_mode(void);$/;"	p	typeref:typename:int
+simple_pair_ap_refuse_negotiate	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_ap_refuse_negotiate(void);$/;"	p	typeref:typename:int
+simple_pair_ap_start_negotiate	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_ap_start_negotiate(void);$/;"	p	typeref:typename:int
+simple_pair_deinit	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^void simple_pair_deinit(void);$/;"	p	typeref:typename:void
+simple_pair_get_peer_ref	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_get_peer_ref(u8 *peer_mac, u8 *tmp_key, u8 *ex_key);$/;"	p	typeref:typename:int
+simple_pair_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_init(void);$/;"	p	typeref:typename:int
+simple_pair_set_peer_ref	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_set_peer_ref(u8 *peer_mac, u8 *tmp_key, u8 *ex_key);$/;"	p	typeref:typename:int
+simple_pair_sta_enter_scan_mode	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_sta_enter_scan_mode(void);$/;"	p	typeref:typename:int
+simple_pair_sta_start_negotiate	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_sta_start_negotiate(void);$/;"	p	typeref:typename:int
+simple_pair_state_reset	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^int simple_pair_state_reset(void);$/;"	p	typeref:typename:int
+smartconfig_get_version	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/smartconfig.h	/^const char *smartconfig_get_version(void);$/;"	p	typeref:typename:const char *
+smartconfig_set_type	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/smartconfig.h	/^bool smartconfig_set_type(sc_type type);$/;"	p	typeref:typename:bool
+smartconfig_start	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/smartconfig.h	/^bool smartconfig_start(sc_callback_t cb, ...);$/;"	p	typeref:typename:bool
+smartconfig_stop	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/smartconfig.h	/^bool smartconfig_stop(void);$/;"	p	typeref:typename:bool
+sntp_get_current_timestamp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^uint32 sntp_get_current_timestamp();$/;"	p	typeref:typename:uint32
+sntp_get_real_time	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^char* sntp_get_real_time(long t);$/;"	p	typeref:typename:char *
+sntp_get_timezone	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^sint8 sntp_get_timezone(void);$/;"	p	typeref:typename:sint8
+sntp_getserver	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^ip_addr_t sntp_getserver(unsigned char idx);$/;"	p	typeref:typename:ip_addr_t
+sntp_getservername	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^char *sntp_getservername(unsigned char idx);$/;"	p	typeref:typename:char *
+sntp_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^void sntp_init(void);$/;"	p	typeref:typename:void
+sntp_servermode_dhcp	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^#define sntp_servermode_dhcp(/;"	d
+sntp_set_timezone	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^bool sntp_set_timezone(sint8 timezone);$/;"	p	typeref:typename:bool
+sntp_setserver	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^void sntp_setserver(unsigned char idx, ip_addr_t *addr);$/;"	p	typeref:typename:void
+sntp_setservername	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^void sntp_setservername(unsigned char idx, char *server);$/;"	p	typeref:typename:void
+sntp_stop	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/sntp.h	/^void sntp_stop(void);$/;"	p	typeref:typename:void
+spi_flash_erase_protect_disable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^bool spi_flash_erase_protect_disable(void);$/;"	p	typeref:typename:bool
+spi_flash_erase_protect_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^bool spi_flash_erase_protect_enable(void);$/;"	p	typeref:typename:bool
+spi_flash_erase_sector	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^SpiFlashOpResult spi_flash_erase_sector(uint16 sec);$/;"	p	typeref:typename:SpiFlashOpResult
+spi_flash_get_id	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^uint32 spi_flash_get_id(void);$/;"	p	typeref:typename:uint32
+spi_flash_read	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^SpiFlashOpResult spi_flash_read(uint32 src_addr, uint32 *des_addr, uint32 size);$/;"	p	typeref:typename:SpiFlashOpResult
+spi_flash_set_read_func	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^void spi_flash_set_read_func(user_spi_flash_read read);$/;"	p	typeref:typename:void
+spi_flash_write	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/spi_flash.h	/^SpiFlashOpResult spi_flash_write(uint32 des_addr, uint32 *src_addr, uint32 size);$/;"	p	typeref:typename:SpiFlashOpResult
+system_adc_read	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint16 system_adc_read(void);$/;"	p	typeref:typename:uint16
+system_adc_read_fast	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_adc_read_fast(uint16 *adc_addr, uint16 adc_num, uint8 adc_clk_div);$/;"	p	typeref:typename:void
+system_deep_sleep	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_deep_sleep(uint64 time_in_us);$/;"	p	typeref:typename:bool
+system_deep_sleep_instant	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_deep_sleep_instant(uint64 time_in_us);$/;"	p	typeref:typename:bool
+system_deep_sleep_set_option	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_deep_sleep_set_option(uint8 option);$/;"	p	typeref:typename:bool
+system_get_boot_mode	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 system_get_boot_mode(void);$/;"	p	typeref:typename:uint8
+system_get_boot_version	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 system_get_boot_version(void);$/;"	p	typeref:typename:uint8
+system_get_chip_id	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint32 system_get_chip_id(void);$/;"	p	typeref:typename:uint32
+system_get_cpu_freq	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 system_get_cpu_freq(void);$/;"	p	typeref:typename:uint8
+system_get_flash_size_map	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^enum flash_size_map system_get_flash_size_map(void);$/;"	p	typeref:enum:flash_size_map
+system_get_free_heap_size	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint32 system_get_free_heap_size(void);$/;"	p	typeref:typename:uint32
+system_get_os_print	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 system_get_os_print();$/;"	p	typeref:typename:uint8
+system_get_rst_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^struct rst_info* system_get_rst_info(void);$/;"	p	typeref:struct:rst_info *
+system_get_rtc_time	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint32 system_get_rtc_time(void);$/;"	p	typeref:typename:uint32
+system_get_sdk_version	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^const char *system_get_sdk_version(void);$/;"	p	typeref:typename:const char *
+system_get_time	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint32 system_get_time(void);$/;"	p	typeref:typename:uint32
+system_get_userbin_addr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint32 system_get_userbin_addr(void);$/;"	p	typeref:typename:uint32
+system_get_vdd33	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint16 system_get_vdd33(void);$/;"	p	typeref:typename:uint16
+system_init_done_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_init_done_cb(init_done_cb_t cb);$/;"	p	typeref:typename:void
+system_mktime	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint64 system_mktime(uint32 year, uint32 mon, uint32 day, uint32 hour, uint32 min, uint32 sec);$/;"	p	typeref:typename:uint64
+system_os_post	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_os_post(uint8 prio, os_signal_t sig, os_param_t par);$/;"	p	typeref:typename:bool
+system_os_task	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_os_task(os_task_t task, uint8 prio, os_event_t *queue, uint8 qlen);$/;"	p	typeref:typename:bool
+system_param_load	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_param_load(uint16 start_sec, uint16 offset, void *param, uint16 len);$/;"	p	typeref:typename:bool
+system_param_save_with_protect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_param_save_with_protect(uint16 start_sec, void *param, uint16 len);$/;"	p	typeref:typename:bool
+system_phy_freq_trace_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_phy_freq_trace_enable(bool enable);$/;"	p	typeref:typename:void
+system_phy_set_max_tpw	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_phy_set_max_tpw(uint8 max_tpw);$/;"	p	typeref:typename:void
+system_phy_set_powerup_option	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_phy_set_powerup_option(uint8 option);$/;"	p	typeref:typename:void
+system_phy_set_rfoption	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_phy_set_rfoption(uint8 option);$/;"	p	typeref:typename:void
+system_phy_set_tpw_via_vdd33	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_phy_set_tpw_via_vdd33(uint16 vdd33);$/;"	p	typeref:typename:void
+system_print_meminfo	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_print_meminfo(void);$/;"	p	typeref:typename:void
+system_restart	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_restart(void);$/;"	p	typeref:typename:void
+system_restart_enhance	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_restart_enhance(uint8 bin_type, uint32 bin_addr);$/;"	p	typeref:typename:bool
+system_restore	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_restore(void);$/;"	p	typeref:typename:void
+system_rtc_clock_cali_proc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint32 system_rtc_clock_cali_proc(void);$/;"	p	typeref:typename:uint32
+system_rtc_mem_read	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_rtc_mem_read(uint8 src_addr, void *des_addr, uint16 load_size);$/;"	p	typeref:typename:bool
+system_rtc_mem_write	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_rtc_mem_write(uint8 des_addr, const void *src_addr, uint16 save_size);$/;"	p	typeref:typename:bool
+system_set_os_print	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_set_os_print(uint8 onoff);$/;"	p	typeref:typename:void
+system_show_malloc	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_show_malloc(void);$/;"	p	typeref:typename:void
+system_soft_wdt_feed	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_soft_wdt_feed(void);$/;"	p	typeref:typename:void
+system_soft_wdt_restart	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_soft_wdt_restart(void);$/;"	p	typeref:typename:void
+system_soft_wdt_stop	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_soft_wdt_stop(void);$/;"	p	typeref:typename:void
+system_timer_reinit	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_timer_reinit(void);$/;"	p	typeref:typename:void
+system_uart_de_swap	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_uart_de_swap(void);$/;"	p	typeref:typename:void
+system_uart_swap	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_uart_swap(void);$/;"	p	typeref:typename:void
+system_update_cpu_freq	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool system_update_cpu_freq(uint8 freq);$/;"	p	typeref:typename:bool
+system_upgrade	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^bool system_upgrade(uint8 *data, uint16 len);$/;"	p	typeref:typename:bool
+system_upgrade_deinit	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^void system_upgrade_deinit();$/;"	p	typeref:typename:void
+system_upgrade_flag_check	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 system_upgrade_flag_check();$/;"	p	typeref:typename:uint8
+system_upgrade_flag_set	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_upgrade_flag_set(uint8 flag);$/;"	p	typeref:typename:void
+system_upgrade_init	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^void system_upgrade_init();$/;"	p	typeref:typename:void
+system_upgrade_reboot	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void system_upgrade_reboot(void);$/;"	p	typeref:typename:void
+system_upgrade_start	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^bool system_upgrade_start(struct upgrade_server_info *server);$/;"	p	typeref:typename:bool
+system_upgrade_start_ssl	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/upgrade.h	/^bool system_upgrade_start_ssl(struct upgrade_server_info *server);	\/\/ not supported now$/;"	p	typeref:typename:bool
+system_upgrade_userbin_check	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 system_upgrade_userbin_check(void);$/;"	p	typeref:typename:uint8
+uart_div_modify	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void uart_div_modify(uint8 uart_no, uint32 DivLatchValue);$/;"	p	typeref:typename:void
+unregister_simple_pair_status_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/simple_pair.h	/^void unregister_simple_pair_status_cb(void);$/;"	p	typeref:typename:void
+vPortFree	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/mem.h	/^void vPortFree (void *p, const char *, unsigned);$/;"	p	typeref:typename:void
+wifi_disable_gpio_wakeup	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_disable_gpio_wakeup(void);$/;"	p	typeref:typename:void
+wifi_enable_gpio_wakeup	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_enable_gpio_wakeup(uint32 i, GPIO_INT_TYPE intr_status);$/;"	p	typeref:typename:void
+wifi_fpm_auto_sleep_set_in_null_mode	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_fpm_auto_sleep_set_in_null_mode(uint8 req);$/;"	p	typeref:typename:void
+wifi_fpm_close	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_fpm_close(void);$/;"	p	typeref:typename:void
+wifi_fpm_do_sleep	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^sint8 wifi_fpm_do_sleep(uint32 sleep_time_in_us);$/;"	p	typeref:typename:sint8
+wifi_fpm_do_wakeup	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_fpm_do_wakeup(void);$/;"	p	typeref:typename:void
+wifi_fpm_get_sleep_type	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^enum sleep_type wifi_fpm_get_sleep_type(void);$/;"	p	typeref:enum:sleep_type
+wifi_fpm_open	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_fpm_open(void);$/;"	p	typeref:typename:void
+wifi_fpm_set_sleep_type	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_fpm_set_sleep_type(enum sleep_type type);$/;"	p	typeref:typename:void
+wifi_fpm_set_wakeup_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_fpm_set_wakeup_cb(fpm_wakeup_cb cb);$/;"	p	typeref:typename:void
+wifi_get_broadcast_if	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_get_broadcast_if(void);$/;"	p	typeref:typename:uint8
+wifi_get_channel	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_get_channel(void);$/;"	p	typeref:typename:uint8
+wifi_get_ip_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_get_ip_info(uint8 if_index, struct ip_info *info);$/;"	p	typeref:typename:bool
+wifi_get_macaddr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_get_macaddr(uint8 if_index, uint8 *macaddr);$/;"	p	typeref:typename:bool
+wifi_get_opmode	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_get_opmode(void);$/;"	p	typeref:typename:uint8
+wifi_get_opmode_default	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_get_opmode_default(void);$/;"	p	typeref:typename:uint8
+wifi_get_phy_mode	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^enum phy_mode wifi_get_phy_mode(void);$/;"	p	typeref:enum:phy_mode
+wifi_get_sleep_type	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^enum sleep_type wifi_get_sleep_type(void);$/;"	p	typeref:enum:sleep_type
+wifi_get_user_fixed_rate	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_get_user_fixed_rate(uint8 *enable_mask, uint8 *rate);$/;"	p	typeref:typename:int
+wifi_get_user_limit_rate_mask	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_get_user_limit_rate_mask(void);$/;"	p	typeref:typename:uint8
+wifi_promiscuous_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_promiscuous_enable(uint8 promiscuous);$/;"	p	typeref:typename:void
+wifi_promiscuous_set_mac	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_promiscuous_set_mac(const uint8_t *address);$/;"	p	typeref:typename:void
+wifi_register_rfid_locp_recv_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_register_rfid_locp_recv_cb(rfid_locp_cb_t cb);$/;"	p	typeref:typename:int
+wifi_register_send_pkt_freedom_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_register_send_pkt_freedom_cb(freedom_outside_cb_t cb);$/;"	p	typeref:typename:int
+wifi_register_user_ie_manufacturer_recv_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_register_user_ie_manufacturer_recv_cb(user_ie_manufacturer_recv_cb_t cb);$/;"	p	typeref:typename:int
+wifi_rfid_locp_recv_close	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_rfid_locp_recv_close(void);$/;"	p	typeref:typename:void
+wifi_rfid_locp_recv_open	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_rfid_locp_recv_open(void);$/;"	p	typeref:typename:int
+wifi_send_pkt_freedom	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_send_pkt_freedom(uint8 *buf, int len, bool sys_seq);$/;"	p	typeref:typename:int
+wifi_set_broadcast_if	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_broadcast_if(uint8 interface);$/;"	p	typeref:typename:bool
+wifi_set_channel	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_channel(uint8 channel);$/;"	p	typeref:typename:bool
+wifi_set_event_handler_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_set_event_handler_cb(wifi_event_handler_cb_t cb);$/;"	p	typeref:typename:void
+wifi_set_ip_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_ip_info(uint8 if_index, struct ip_info *info);$/;"	p	typeref:typename:bool
+wifi_set_macaddr	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_macaddr(uint8 if_index, uint8 *macaddr);$/;"	p	typeref:typename:bool
+wifi_set_opmode	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_opmode(uint8 opmode);$/;"	p	typeref:typename:bool
+wifi_set_opmode_current	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_opmode_current(uint8 opmode);$/;"	p	typeref:typename:bool
+wifi_set_phy_mode	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_phy_mode(enum phy_mode mode);$/;"	p	typeref:typename:bool
+wifi_set_promiscuous_rx_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_set_promiscuous_rx_cb(wifi_promiscuous_cb_t cb);$/;"	p	typeref:typename:void
+wifi_set_sleep_type	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_sleep_type(enum sleep_type type);$/;"	p	typeref:typename:bool
+wifi_set_user_fixed_rate	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_set_user_fixed_rate(uint8 enable_mask, uint8 rate);$/;"	p	typeref:typename:int
+wifi_set_user_ie	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_user_ie(bool enable, uint8 *m_oui, uint8 type, uint8 *user_ie, uint8 len);$/;"	p	typeref:typename:bool
+wifi_set_user_limit_rate_mask	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_user_limit_rate_mask(uint8 enable_mask);$/;"	p	typeref:typename:bool
+wifi_set_user_rate_limit	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_user_rate_limit(uint8 mode, uint8 ifidx, uint8 max, uint8 min);$/;"	p	typeref:typename:bool
+wifi_set_user_sup_rate	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_set_user_sup_rate(uint8 min, uint8 max);$/;"	p	typeref:typename:int
+wifi_set_wps_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_set_wps_cb(wps_st_cb_t cb);$/;"	p	typeref:typename:bool
+wifi_softap_dhcps_start	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_dhcps_start(void);$/;"	p	typeref:typename:bool
+wifi_softap_dhcps_status	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^enum dhcp_status wifi_softap_dhcps_status(void);$/;"	p	typeref:enum:dhcp_status
+wifi_softap_dhcps_stop	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_dhcps_stop(void);$/;"	p	typeref:typename:bool
+wifi_softap_free_station_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_softap_free_station_info(void);$/;"	p	typeref:typename:void
+wifi_softap_get_config	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_get_config(struct softap_config *config);$/;"	p	typeref:typename:bool
+wifi_softap_get_config_default	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_get_config_default(struct softap_config *config);$/;"	p	typeref:typename:bool
+wifi_softap_get_dhcps_lease	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_get_dhcps_lease(struct dhcps_lease *please);$/;"	p	typeref:typename:bool
+wifi_softap_get_dhcps_lease_time	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint32 wifi_softap_get_dhcps_lease_time(void);$/;"	p	typeref:typename:uint32
+wifi_softap_get_station_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^struct station_info * wifi_softap_get_station_info(void);$/;"	p	typeref:struct:station_info *
+wifi_softap_get_station_num	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_softap_get_station_num(void);$/;"	p	typeref:typename:uint8
+wifi_softap_reset_dhcps_lease_time	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_reset_dhcps_lease_time(void);$/;"	p	typeref:typename:bool
+wifi_softap_set_config	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_set_config(struct softap_config *config);$/;"	p	typeref:typename:bool
+wifi_softap_set_config_current	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_set_config_current(struct softap_config *config);$/;"	p	typeref:typename:bool
+wifi_softap_set_dhcps_lease	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_set_dhcps_lease(struct dhcps_lease *please);$/;"	p	typeref:typename:bool
+wifi_softap_set_dhcps_lease_time	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_set_dhcps_lease_time(uint32 minute);$/;"	p	typeref:typename:bool
+wifi_softap_set_dhcps_offer_option	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_softap_set_dhcps_offer_option(uint8 level, void* optarg);$/;"	p	typeref:typename:bool
+wifi_station_ap_change	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_ap_change(uint8 current_ap_id);$/;"	p	typeref:typename:bool
+wifi_station_ap_number_set	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_ap_number_set(uint8 ap_number);$/;"	p	typeref:typename:bool
+wifi_station_clear_cert_key	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_station_clear_cert_key(void);$/;"	p	typeref:typename:void
+wifi_station_clear_enterprise_ca_cert	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^void  wifi_station_clear_enterprise_ca_cert(void);$/;"	p	typeref:typename:void
+wifi_station_clear_enterprise_cert_key	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^void  wifi_station_clear_enterprise_cert_key(void);$/;"	p	typeref:typename:void
+wifi_station_clear_enterprise_identity	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^void wifi_station_clear_enterprise_identity(void);$/;"	p	typeref:typename:void
+wifi_station_clear_enterprise_new_password	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^void  wifi_station_clear_enterprise_new_password(void);$/;"	p	typeref:typename:void
+wifi_station_clear_enterprise_password	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^void  wifi_station_clear_enterprise_password(void);$/;"	p	typeref:typename:void
+wifi_station_clear_enterprise_username	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^void  wifi_station_clear_enterprise_username(void);$/;"	p	typeref:typename:void
+wifi_station_clear_username	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_station_clear_username(void);$/;"	p	typeref:typename:void
+wifi_station_connect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_connect(void);$/;"	p	typeref:typename:bool
+wifi_station_dhcpc_set_maxtry	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_dhcpc_set_maxtry(uint8 num);$/;"	p	typeref:typename:bool
+wifi_station_dhcpc_start	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_dhcpc_start(void);$/;"	p	typeref:typename:bool
+wifi_station_dhcpc_status	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^enum dhcp_status wifi_station_dhcpc_status(void);$/;"	p	typeref:enum:dhcp_status
+wifi_station_dhcpc_stop	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_dhcpc_stop(void);$/;"	p	typeref:typename:bool
+wifi_station_disconnect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_disconnect(void);$/;"	p	typeref:typename:bool
+wifi_station_get_ap_info	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_station_get_ap_info(struct station_config config[]);$/;"	p	typeref:typename:uint8
+wifi_station_get_auto_connect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_station_get_auto_connect(void);$/;"	p	typeref:typename:uint8
+wifi_station_get_config	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_get_config(struct station_config *config);$/;"	p	typeref:typename:bool
+wifi_station_get_config_default	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_get_config_default(struct station_config *config);$/;"	p	typeref:typename:bool
+wifi_station_get_connect_status	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_station_get_connect_status(void);$/;"	p	typeref:typename:uint8
+wifi_station_get_current_ap_id	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^uint8 wifi_station_get_current_ap_id(void);$/;"	p	typeref:typename:uint8
+wifi_station_get_enterprise_disable_time_check	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^bool  wifi_station_get_enterprise_disable_time_check(void);$/;"	p	typeref:typename:bool
+wifi_station_get_hostname	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^char* wifi_station_get_hostname(void);$/;"	p	typeref:typename:char *
+wifi_station_get_rssi	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^sint8 wifi_station_get_rssi(void);$/;"	p	typeref:typename:sint8
+wifi_station_scan	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_scan(struct scan_config *config, scan_done_cb_t cb);$/;"	p	typeref:typename:bool
+wifi_station_set_auto_connect	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_set_auto_connect(uint8 set);$/;"	p	typeref:typename:bool
+wifi_station_set_cert_key	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_station_set_cert_key(uint8 *client_cert, int client_cert_len,$/;"	p	typeref:typename:int
+wifi_station_set_config	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_set_config(struct station_config *config);$/;"	p	typeref:typename:bool
+wifi_station_set_config_current	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_set_config_current(struct station_config *config);$/;"	p	typeref:typename:bool
+wifi_station_set_enterprise_ca_cert	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^int  wifi_station_set_enterprise_ca_cert(u8 *ca_cert, int ca_cert_len);$/;"	p	typeref:typename:int
+wifi_station_set_enterprise_cert_key	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^int  wifi_station_set_enterprise_cert_key(u8 *client_cert, int client_cert_len,$/;"	p	typeref:typename:int
+wifi_station_set_enterprise_disable_time_check	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^void  wifi_station_set_enterprise_disable_time_check(bool disable);$/;"	p	typeref:typename:void
+wifi_station_set_enterprise_identity	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^int wifi_station_set_enterprise_identity(u8 *identity, int len);$/;"	p	typeref:typename:int
+wifi_station_set_enterprise_new_password	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^int  wifi_station_set_enterprise_new_password(u8 *new_password, int len);$/;"	p	typeref:typename:int
+wifi_station_set_enterprise_password	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^int  wifi_station_set_enterprise_password(u8 *password, int len);$/;"	p	typeref:typename:int
+wifi_station_set_enterprise_username	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^int  wifi_station_set_enterprise_username(u8 *username, int len);$/;"	p	typeref:typename:int
+wifi_station_set_hostname	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_set_hostname(char *name);$/;"	p	typeref:typename:bool
+wifi_station_set_reconnect_policy	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_station_set_reconnect_policy(bool set);$/;"	p	typeref:typename:bool
+wifi_station_set_username	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^int wifi_station_set_username(uint8 *username, int len);$/;"	p	typeref:typename:int
+wifi_station_set_wpa2_enterprise_auth	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^int  wifi_station_set_wpa2_enterprise_auth(int enable);$/;"	p	typeref:typename:int
+wifi_status_led_install	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_status_led_install(uint8 gpio_id, uint32 gpio_name, uint8 gpio_func);$/;"	p	typeref:typename:void
+wifi_status_led_uninstall	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_status_led_uninstall();$/;"	p	typeref:typename:void
+wifi_unregister_rfid_locp_recv_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_unregister_rfid_locp_recv_cb(void);$/;"	p	typeref:typename:void
+wifi_unregister_send_pkt_freedom_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_unregister_send_pkt_freedom_cb(void);$/;"	p	typeref:typename:void
+wifi_unregister_user_ie_manufacturer_recv_cb	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^void wifi_unregister_user_ie_manufacturer_recv_cb(void);$/;"	p	typeref:typename:void
+wifi_wps_disable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_wps_disable(void);$/;"	p	typeref:typename:bool
+wifi_wps_enable	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_wps_enable(WPS_TYPE_t wps_type);$/;"	p	typeref:typename:bool
+wifi_wps_start	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/user_interface.h	/^bool wifi_wps_start(void);$/;"	p	typeref:typename:bool
+wpa2_enterprise_set_user_get_time	/home/nathan/external/forks/esp-open-sdk/ESP8266_NONOS_SDK-2.1.0-18-g61248df/include/wpa2_enterprise.h	/^void  wpa2_enterprise_set_user_get_time(get_time_func_t cb);$/;"	p	typeref:typename:void
