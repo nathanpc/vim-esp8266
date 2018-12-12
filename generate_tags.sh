@@ -44,8 +44,10 @@ function build_tags {
 	for header in $hdir/*.h; do
 		echo "Building tags from $bold$(basename $header)$normal"
 		
-		echo "  --> Functions and macros"
-		ctags --c-kinds=pd -a -o "$tagsdir/functions" "$header"
+		echo "  --> Functions"
+		ctags --c-kinds=p -a -o "$tagsdir/functions" "$header"
+		echo "  --> Macros"
+		ctags --c-kinds=d -a -o "$tagsdir/macros" "$header"
 		echo "  --> Enumerators"
 		ctags --c-kinds=eg -a -o "$tagsdir/enums" "$header"
 		echo "  --> Structs, typedefs and unions"

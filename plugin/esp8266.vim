@@ -18,7 +18,7 @@ endif
 
 " Set the default behaviour for auto loading tags.
 if !exists('g:esp8266_autoload_tags')
-	let g:esp8266_autoload_tags = ['functions', 'structs', 'enums']
+	let g:esp8266_autoload_tags = ['functions', 'macros', 'structs', 'enums']
 endif
 
 " Sets the path where the tags are located.

@@ -45,7 +45,8 @@ function finish_file {
 	echo -e "${bold}Finishing the syntax file${normal}"
 	echo "Adding a footer"
 
-	echo 'highlight link espFunction Tag' >> $syntaxfile
+	echo 'highlight link espFunction Function' >> $syntaxfile
+	echo 'highlight link espMacro Macro' >> $syntaxfile
 	echo 'highlight link espEnum Macro' >> $syntaxfile
 	echo 'highlight link espStruct Type' >> $syntaxfile
 	echo '' >> $syntaxfile
@@ -61,9 +62,13 @@ function build_syntax {
 
 		# Tell the user what you are parsing now.
 		if [[ $tagtype == "functions" ]]; then
-			echo "Building syntax for functions and macros"
-			echo "\" Functions and macros" >> $syntaxfile
+			echo "Building syntax for functions"
+			echo "\" Functions" >> $syntaxfile
 			syndef="espFunction"
+		elif [[ $tagtype == "macros" ]]; then
+			echo "Building syntax for macros"
+			echo "\" Macros" >> $syntaxfile
+			syndef="espMacro"
 		elif [[ $tagtype == "structs" ]]; then
 			echo "Building syntax for structs, typedefs and unions"
 			echo "\" Structs, typedefs and unions" >> $syntaxfile
@@ -77,7 +82,19 @@ function build_syntax {
 		# Read the tags file line-by-line.
 		while IFS='' read -r line || [[ -n "$line" ]]; do
 			if [[ $line =~ ^([A-Za-z_][A-Za-z_0-9]+)[[:blank:]].+$ ]]; then
-				echo "syntax keyword $syndef ${BASH_REMATCH[1]}" >> $syntaxfile
+				keyword=${BASH_REMATCH[1]}
+
+				# What the fuck was Espressif thinking when they made these header files?????
+				if [[ $line =~ os_type\.h ]]; then
+					# Handle "struct-like" defines in os_type.h
+					echo "syntax keyword espStruct $keyword" >> $syntaxfile
+				elif [[ $line =~ ^os_.+osapi\.h.+ ]]; then
+					# Handle the os_* functions that are redefined using #define.
+					echo "syntax keyword espFunction $keyword" >> $syntaxfile
+				else
+					# The stuff that makes sense.
+					echo "syntax keyword $syndef $keyword" >> $syntaxfile
+				fi
 			fi
 		done < "$tagfile"
 

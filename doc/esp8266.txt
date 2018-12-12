@@ -75,11 +75,15 @@ Default: `1` (automatically loads the plugin when editing a C++ source file)
 
 Sets which tag names are going to be automatically loaded: >
 
-    let g:esp8266_autoload_tags = ['functions', 'structs', 'enums']
+    let g:esp8266_autoload_tags = ['functions', 'macros', 'structs', 'enums']
 
-Available options: `functions, structs, enums`
+If you want to disable macros, remember that for some reason Espressif defines
+a bunch of functions like os_* from ets_* via macros. If you disable them
+you'll loose those.
 
-Default: `['functions', 'structs', 'enums']`
+Available options: `functions, macros, structs, enums`
+
+Default: `['functions', 'macros', 'structs', 'enums']`
 
 ------------------------------------------------------------------------------
 2.4 g:esp8266_tags_path                       *ESP8266Configuration_tags_path*
