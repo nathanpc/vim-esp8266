@@ -1,0 +1,124 @@
+*esp8266.txt* Plugin to help you with projects that use the ESP8266 Non-OS SDK
+
+           #######  #####  ######   #####   #####   #####   #####  ~
+           #       #     # #     # #     # #     # #     # #     # ~
+           #       #       #     # #     #       # #       #       ~
+           #####    #####  ######   #####   #####  ######  ######  ~
+           #             # #       #     # #       #     # #     # ~
+           #       #     # #       #     # #       #     # #     # ~
+           #######  #####  #        #####  #######  #####   #####  ~
+
+           The plugin to have for all your ESP8266 Non-OS SDK need.
+          Includes tags for auto-completion and syntax highlighting.
+
+==============================================================================
+CONTENTS                                                     *ESP8266Contents*
+
+    1. Usage .............................. |ESP8266Usage|
+    2. Configuration ...................... |ESP8266Configuration|
+        2.1 g:esp8266_autoload_c_syntax  .. |ESP8266Configuration_autoload_c_syntax|
+        2.2 g:esp8266_autoload_cpp_syntax . |ESP8266Configuration_autoload_cpp_syntax|
+        2.3 g:esp8266_autoload_tags ....... |ESP8266Configuration_autoload_tags|
+        2.4 g:esp8266_tags_path ........... |ESP8266Configuration_tags_path|
+    3. License ............................ |ESP8266License|
+    4. Bugs ............................... |ESP8266Bugs|
+    5. Contributing ....................... |ESP8266Contributing|
+    6. Changelog .......................... |ESP8266Changelog|
+
+==============================================================================
+1. Usage                                                        *ESP8266Usage*
+
+This plugin is very simple in its nature and most of the work will be done
+automatically.
+
+To change these defaults check out the |ESP8266Configuration| for tips on how
+to make it better for you.
+
+Also this plugin comes with tags and syntax generated from SDK version 
+`ESP8266_NONOS_SDK-2.1.0-18-g61248df`, but if you wish to build it for your
+own SDK version it is extremely simple, just go to the plugin directory
+(usually `~/.vim/bundle/vim-esp8266`) and execute the following commands: >
+
+    $ make clean
+    $ make
+
+Now you should have up-to-date tags and syntax highlighting.
+
+==============================================================================
+2. Configuration                                        *ESP8266Configuration*
+
+You can configure the following settings to change the behaviour of this
+plugin:
+
+------------------------------------------------------------------------------
+2.1 g:esp8266_autoload_c_syntax       *ESP8266Configuration_autoload_c_syntax*
+
+Set this to 0 to disable automatically loading the tags and syntax
+highlighting when opening a C source file: >
+
+    let g:esp8266_autoload_c_syntax = 0
+
+Default: `1` (automatically loads the plugin when editing a C source file)
+
+------------------------------------------------------------------------------
+2.2 g:esp8266_autoload_cpp_syntax   *ESP8266Configuration_autoload_cpp_syntax*
+
+Set this to 0 to disable automatically loading the tags and syntax
+highlighting when opening a C++ source file: >
+
+    let g:esp8266_autoload_cpp_syntax = 0
+
+Default: `1` (automatically loads the plugin when editing a C++ source file)
+
+------------------------------------------------------------------------------
+2.3 g:esp8266_autoload_tags               *ESP8266Configuration_autoload_tags*
+
+Sets which tag names are going to be automatically loaded: >
+
+    let g:esp8266_autoload_tags = ['functions', 'structs', 'enums']
+
+Available options: `functions, structs, enums`
+
+Default: `['functions', 'structs', 'enums']`
+
+------------------------------------------------------------------------------
+2.4 g:esp8266_tags_path                       *ESP8266Configuration_tags_path*
+
+Sets from where the tag files are going to be loaded from: >
+
+    let g:esp8266_tags_path = '~/.tags'
+
+By default the plugin loads them from the tags directory inside the plugin
+folder.
+
+Default: `resolve(fnamemodify(resolve(expand('<sfile>:p/')), ':h') . '/../')`
+
+==============================================================================
+3. License                                                    *ESP8266License*
+
+This plugin is MIT licensed.
+
+==============================================================================
+4. Bugs                                                          *ESP8266Bugs*
+
+If you find a bug please post it on the issue tracker:
+https://github.com/nathanpc/vim-esp8266/issues/
+
+==============================================================================
+5. Contributing                                          *ESP8266Contributing*
+
+Want to contribute to make this the best ESP8266 SDK plugin available for Vim?
+Fork it on GitHub and send a pull request, or maybe just add a Issue and I'll
+try my best to implement it.
+
+https://github.com/nathanpc/vim-esp8266/
+
+==============================================================================
+6. Changelog                                                *ESP8266Changelog*
+
+v0.1.0
+    * Initial release.
+	* Provides tags for auto-completion and syntax highlighting.
+
+==============================================================================
+
