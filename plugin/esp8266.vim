@@ -21,3 +21,8 @@ if !exists('g:esp8266_autoload_tags')
 	let g:esp8266_autoload_tags = ['functions', 'structs', 'enums']
 endif
 
+" Sets the path where the tags are located.
+if !exists('g:esp8266_tags_path')
+	let g:esp8266_tags_path = resolve(fnamemodify(resolve(expand('<sfile>:p/')), ':h') . '/../')
+endif
+
